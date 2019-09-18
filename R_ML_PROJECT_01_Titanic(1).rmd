@@ -18,4 +18,4 @@ output:
 ### 2
 
 ### 오늘은 좋은 날
-[네이버 웹페이지 연결](http://naver.com)
+*[네이버 웹페이지 연결](http://naver.com)
